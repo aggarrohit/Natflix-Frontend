@@ -1,0 +1,21 @@
+.search-box {
+  position: fixed;
+  right: 200px;
+  display: inline-block;
+  background-color: var(--color-gray-1);
+  border: solid 1px var(--color-gray-4);
+  border-radius: var(--radius);
+  overflow-y: hidden;
+}
+
+.search-box input {
+  height: 40px;
+  width: 200px;
+  border: solid grey 1px;
+  border-radius: 20px;
+  padding-left: 20px;
+}
+
+.search-result-item {
+  display: block;
+}

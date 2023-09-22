@@ -1,0 +1,8 @@
+{
+  "key": "title",
+  "autoFocus": true,
+  "label": "Title",
+  "placeholder": "Example: Back to the Future",
+  "required": true,
+  "type": "text"
+}
