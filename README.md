@@ -57,6 +57,10 @@ The video page takes the video code sent from the play button or episode item in
 
 ![](public/readme-images/diagram-4.png)
 
+## Updated complete diagram
+
+https://whimsical.com/backend-course-2-WwLheHGeEeijTauPEfw5Z
+
 # Tech stack
 
 ## Frontend
